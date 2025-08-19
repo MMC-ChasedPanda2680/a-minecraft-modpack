@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "legendary_ouba:block/ouba_world_portal_ew"
+    },
+    "axis=x": {
+      "model": "legendary_ouba:block/ouba_world_portal_ns"
+    }
+  }
+}
