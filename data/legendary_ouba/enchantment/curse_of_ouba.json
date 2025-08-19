@@ -1,0 +1,26 @@
+{
+  "description": {
+    "translate": "enchantment.legendary_ouba.curse_of_ouba"
+  },
+  "supported_items": [
+    "legendary_ouba:armor_ouba_helmet",
+    "legendary_ouba:armor_ouba_chestplate",
+    "legendary_ouba:armor_ouba_leggings",
+    "legendary_ouba:armor_ouba_boots"
+  ],
+  "weight": 4,
+  "max_level": 10,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 6,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 5,
+  "slots": [
+    "any"
+  ],
+  "exclusive_set": []
+}

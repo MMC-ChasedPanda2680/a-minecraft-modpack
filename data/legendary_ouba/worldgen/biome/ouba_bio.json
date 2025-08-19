@@ -1,0 +1,75 @@
+{
+  "has_precipitation": false,
+  "temperature": 1,
+  "downfall": 0,
+  "effects": {
+    "ambient_sound": "block.bell.use",
+    "music": [
+      {
+        "weight": 1,
+        "data": {
+          "sound": "block.anvil.land",
+          "min_delay": 12000,
+          "max_delay": 24000,
+          "replace_current_music": true
+        }
+      }
+    ],
+    "particle": {
+      "options": {
+        "type": "dripping_lava"
+      },
+      "probability": 0.007
+    },
+    "foliage_color": -256,
+    "grass_color": -16750849,
+    "sky_color": -6684826,
+    "fog_color": -65485,
+    "water_color": -10079488,
+    "water_fog_color": -10079488
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "creeper",
+        "weight": 50,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "acacia_boat",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 4
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": [],
+  "features": [
+    [],
+    [],
+    [
+      "minecraft:large_dripstone"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "legendary_ouba:ouba_bio_tree"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ]
+}

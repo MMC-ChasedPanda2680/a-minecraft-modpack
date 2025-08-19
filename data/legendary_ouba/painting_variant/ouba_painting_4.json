@@ -1,0 +1,11 @@
+{
+  "asset_id": "legendary_ouba:ouba_painting_4",
+  "height": 4,
+  "width": 4,
+  "title": {
+    "translate": "painting.legendary_ouba.ouba_painting_4.title"
+  },
+  "author": {
+    "translate": "painting.legendary_ouba.ouba_painting_4.author"
+  }
+}

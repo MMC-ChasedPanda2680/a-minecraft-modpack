@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "oubaaxecr",
+  "category": "equipment",
+  "pattern": [
+    "aa",
+    "ab",
+    " b"
+  ],
+  "key": {
+    "a": "legendary_ouba:heart_of_ouba",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "legendary_ouba:oub_aaxe",
+    "count": 1
+  }
+}

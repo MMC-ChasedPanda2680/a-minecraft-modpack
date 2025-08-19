@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "oubaheartcraft",
+  "category": "equipment",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "legendary_ouba:ouba_plank",
+    "b": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "legendary_ouba:heart_of_ouba",
+    "count": 5
+  }
+}

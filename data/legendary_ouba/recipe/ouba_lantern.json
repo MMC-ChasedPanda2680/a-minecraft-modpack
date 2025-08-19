@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "oubalanterncraft",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "legendary_ouba:heart_of_ouba",
+    "b": "minecraft:torch"
+  },
+  "result": {
+    "id": "legendary_ouba:oub_alantern",
+    "count": 2
+  }
+}

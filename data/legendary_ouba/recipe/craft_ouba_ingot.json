@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "oubaingotcr",
+  "category": "misc",
+  "experience": 5,
+  "cookingtime": 100,
+  "ingredient": "legendary_ouba:heart_of_ouba",
+  "result": {
+    "id": "legendary_ouba:ouba_ingot"
+  }
+}

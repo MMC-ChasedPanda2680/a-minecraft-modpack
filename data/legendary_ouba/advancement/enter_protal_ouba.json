@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "legendary_ouba:ouba_world"
+    },
+    "title": {
+      "translate": "advancements.enter_protal_ouba.title"
+    },
+    "description": {
+      "translate": "advancements.enter_protal_ouba.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "enter_protal_ouba_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "legendary_ouba:ouba_world"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 150
+  },
+  "parent": "legendary_ouba:getting_started"
+}

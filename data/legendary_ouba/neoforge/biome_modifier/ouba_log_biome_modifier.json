@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": {
+    "type": "neoforge:any"
+  },
+  "features": "legendary_ouba:ouba_log",
+  "step": "underground_ores"
+}

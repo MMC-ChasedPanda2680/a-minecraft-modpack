@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "oubawooddecraft",
+  "category": "building",
+  "ingredients": [
+    "legendary_ouba:ouba_log"
+  ],
+  "result": {
+    "id": "legendary_ouba:ouba_plank",
+    "count": 4
+  }
+}
