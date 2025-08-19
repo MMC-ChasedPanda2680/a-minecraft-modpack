@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/copper_bulb_lit",
+    "up": "minecraft:block/copper_bulb_lit",
+    "north": "legendary_ouba:block/ouba_lantern",
+    "east": "legendary_ouba:block/ouba_lantern",
+    "south": "legendary_ouba:block/ouba_lantern",
+    "west": "legendary_ouba:block/ouba_lantern",
+    "particle": "minecraft:block/copper_bulb_lit"
+  },
+  "render_type": "solid"
+}

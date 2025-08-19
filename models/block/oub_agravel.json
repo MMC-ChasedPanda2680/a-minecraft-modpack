@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "legendary_ouba:block/gavleob",
+    "up": "legendary_ouba:block/gavleob",
+    "north": "legendary_ouba:block/gavleob",
+    "east": "legendary_ouba:block/gavleob",
+    "south": "legendary_ouba:block/gavleob",
+    "west": "legendary_ouba:block/gavleob",
+    "particle": "legendary_ouba:block/gavleob"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "legendary_ouba:armor_ouba"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "legendary_ouba:armor_ouba"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "legendary_ouba:block/ouba_plank",
+    "up": "legendary_ouba:block/ouba_plank",
+    "north": "legendary_ouba:block/ouba_plank",
+    "east": "legendary_ouba:block/ouba_plank",
+    "south": "legendary_ouba:block/ouba_plank",
+    "west": "legendary_ouba:block/ouba_plank",
+    "particle": "legendary_ouba:block/ouba_plank"
+  },
+  "render_type": "solid"
+}

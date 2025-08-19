@@ -1,0 +1,44 @@
+{
+  "model": {
+    "type": "legendary_ouba:legacy_overrides",
+    "overrides": [
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "minecraft:damaged"
+            },
+            "value": false
+          },
+          {
+            "property": {
+              "property": "minecraft:damage",
+              "normalize": true
+            },
+            "value": 0.000000012
+          },
+          {
+            "property": {
+              "property": "legendary_ouba:lefthanded"
+            },
+            "value": false
+          },
+          {
+            "property": {
+              "property": "minecraft:cooldown"
+            },
+            "value": 0.000000023
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "legendary_ouba:item/heart_of_ouba_0"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "legendary_ouba:item/heart_of_ouba"
+    }
+  }
+}

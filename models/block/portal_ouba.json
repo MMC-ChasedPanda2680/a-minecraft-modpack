@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "legendary_ouba:block/block6",
+    "up": "legendary_ouba:block/portalouba",
+    "north": "legendary_ouba:block/block6",
+    "east": "legendary_ouba:block/block6",
+    "south": "legendary_ouba:block/block6",
+    "west": "legendary_ouba:block/block6",
+    "particle": "legendary_ouba:block/block6"
+  },
+  "render_type": "solid"
+}

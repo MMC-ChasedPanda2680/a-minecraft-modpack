@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "minecraft:block/dirt",
+    "top": "legendary_ouba:block/ouba_grassland_top",
+    "side": "legendary_ouba:block/grass_block_side_ouba",
+    "overlay": "legendary_ouba:block/grass_block_side_ouba",
+    "particle": "minecraft:block/dirt"
+  },
+  "render_type": "cutout_mipped"
+}
