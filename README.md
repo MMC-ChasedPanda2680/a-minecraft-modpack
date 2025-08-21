@@ -8,7 +8,7 @@ Download Neoforge Mod Loader Here: [https://neoforged.net/](https://maven.neofor
 Follow the instrucions of the installer, after finished, drag the .jar file into .\mods folder, then launch the game, it will be automatically installed.
 Suggested mods: JEI (https://www.curseforge.com/minecraft/mc-mods/jei).
 To download, please click the "Releases" button beside. Thank you!
-要下载，请点击右侧的“发行版”按钮。 谢谢！
+要下载，请点击右侧的“发行版/Releases”按钮。 谢谢！
 
 Social Media:
 Instagram: @叶大韦
